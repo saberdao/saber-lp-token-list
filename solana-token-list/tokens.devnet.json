@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Saber Wrapped Test WBTC (8 decimals)",
+    "address": "BtceyXMo5kwg8u6es4NoukBWQuMwtcBCZpFWUfZgVuZs",
+    "decimals": 8,
+    "symbol": "sWBTC-8",
+    "chainId": 103,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/devnet/BtceyXMo5kwg8u6es4NoukBWQuMwtcBCZpFWUfZgVuZs/icon.png",
+    "tags": [
+      "saber-mkt-btc",
+      "saber-dec-wrapped"
+    ],
+    "extensions": {
+      "coingeckoId": "wrapped-bitcoin",
+      "website": "https://app.saber.so"
+    }
+  },
+  {
+    "symbol": "USDC-CASH",
+    "name": "Saber USDC-CASH LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/devnet/DALfPHRc2eKmnsEDs8fkHKNA37FwVSD6AbrLZXn1oTtJ/icon.png",
+    "decimals": 6,
+    "address": "DALfPHRc2eKmnsEDs8fkHKNA37FwVSD6AbrLZXn1oTtJ",
+    "chainId": 103,
+    "tags": [
+      "saber-stableswap-lp"
+    ],
+    "extensions": {
+      "website": "https://app.saber.so/pools/usdc_cash"
+    }
+  },
+  {
+    "symbol": "TEST-USDC",
+    "name": "Saber TEST-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/devnet/E2XcZ3WR9Qt19JLNjCEWkbtfJiYhWbpTbw3wZbmj2AQo/icon.png",
+    "decimals": 6,
+    "address": "E2XcZ3WR9Qt19JLNjCEWkbtfJiYhWbpTbw3wZbmj2AQo",
+    "chainId": 103,
+    "tags": [
+      "saber-stableswap-lp"
+    ],
+    "extensions": {
+      "website": "https://app.saber.so/pools/usdc_test"
+    }
+  },
+  {
+    "symbol": "USDC-PAI",
+    "name": "Saber USDC-PAI LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/devnet/J8fDLz5bfef14jDNC32nJLbVzpS9Rj1LBHwaSGfYn83J/icon.png",
+    "decimals": 6,
+    "address": "J8fDLz5bfef14jDNC32nJLbVzpS9Rj1LBHwaSGfYn83J",
+    "chainId": 103,
+    "tags": [
+      "saber-stableswap-lp"
+    ],
+    "extensions": {
+      "website": "https://app.saber.so/pools/usdc_pai"
+    }
+  },
+  {
+    "symbol": "USDT-CASH",
+    "name": "Saber USDT-CASH LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/devnet/JEETZ6QBjvtu8UYYwGWrfLiLj6hjaW4YyErxZ1NC3Fk4/icon.png",
+    "decimals": 6,
+    "address": "JEETZ6QBjvtu8UYYwGWrfLiLj6hjaW4YyErxZ1NC3Fk4",
+    "chainId": 103,
+    "tags": [
+      "saber-stableswap-lp"
+    ],
+    "extensions": {
+      "website": "https://app.saber.so/pools/usdt_cash"
+    }
+  },
+  {
+    "symbol": "USDC-USDT",
+    "name": "Saber USDC-USDT LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/devnet/YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57/icon.png",
+    "decimals": 6,
+    "address": "YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57",
+    "chainId": 103,
+    "tags": [
+      "saber-stableswap-lp"
+    ],
+    "extensions": {
+      "website": "https://app.saber.so/pools/usdc_usdt"
+    }
+  },
+  {
+    "symbol": "renBTC-WBTC",
+    "name": "Saber renBTC-WBTC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/devnet/bLpASoWNdsz5DsjCaxpbM2FrkMowTJCydpwiDP4Vdzm/icon.png",
+    "decimals": 8,
+    "address": "bLpASoWNdsz5DsjCaxpbM2FrkMowTJCydpwiDP4Vdzm",
+    "chainId": 103,
+    "tags": [
+      "saber-stableswap-lp"
+    ],
+    "extensions": {
+      "website": "https://app.saber.so/pools/btc"
+    }
+  }
+]
